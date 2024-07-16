@@ -7,8 +7,6 @@
 - 😄 Pronouns: [Uzbek/English]
 - ⚡ Fun fact: I love solving complex algorithms and building efficient, scalable systems
 
-[![Buy Me a HOME] BUY BE A HOME()]()
-
 <a href="https://buymeacoffee.com/omonovabdulaziz" target="_blank">
-  <i class="fa-solid fa-house"></i>
+  <img src="https://img.icons8.com/ios-filled/50/000000/buy-me-a-coffee.png" alt="Buy Me a Coffee">
 </a>
