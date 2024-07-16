@@ -7,4 +7,4 @@
 - 😄 Pronouns: [Uzbek/English]
 - ⚡ Fun fact: I love solving complex algorithms and building efficient, scalable systems
 
-[![Buy Me a Coffee](https://ibb.co/fHh85Gx)](https://www.buymeacoffee.com/omonovabdulaziz)
+[![Buy Me a Coffee](https://i.ibb.co/m4LvwFc/Screenshot-from-2024-07-16-06-49-44.png)](https://www.buymeacoffee.com/omonovabdulaziz)
