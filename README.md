@@ -7,4 +7,8 @@
 - 😄 Pronouns: [Uzbek/English]
 - ⚡ Fun fact: I love solving complex algorithms and building efficient, scalable systems
 
-[![Buy Me a MERCEDEZ](https://tonimarino.co.uk/wp-content/uploads/2019/10/bmw-Logo.png)](https://buymeacoffee.com/omonovabdulaziz)
+[![Buy Me a HOME] BUY BE A HOME()]()
+
+<a href="https://buymeacoffee.com/omonovabdulaziz" target="_blank">
+  <i class="fa-solid fa-house"></i>
+</a>
