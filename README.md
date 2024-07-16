@@ -7,6 +7,4 @@
 - 😄 Pronouns: [Uzbek/English]
 - ⚡ Fun fact: I love solving complex algorithms and building efficient, scalable systems
 
-<a href="https://buymeacoffee.com/omonovabdulaziz" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/buy-me-a-coffee.png" alt="Buy Me a Coffee">
-</a>
+**[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FC642D?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/omonovabdulaziz)**
